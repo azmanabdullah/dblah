@@ -13,7 +13,5 @@
             "role": "Developer"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-    }
+    
 }
