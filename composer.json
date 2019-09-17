@@ -13,11 +13,7 @@
             "role": "Developer"
         }
     ],
-     "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/azmanabdullah/dblah"
-        }
-    ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "require": {
+    }
 }
