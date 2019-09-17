@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-0": {
-            "azmanabdlh": "Database.php"
+            "azmanabdlh": "Databases.php"
         }
     }
 }
