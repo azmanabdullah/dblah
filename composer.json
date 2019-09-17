@@ -19,12 +19,5 @@
             "url": "https://github.com/azmanabdullah/dblah"
         }
     ],
-    "require": {
-        "php": "dev-master"
-    },
-    "autoload": {
-        "psr-0": {
-            "azmanabdlh": "Databases.php"
-        }
-    }
+    "minimum-stability": "dev",
 }
